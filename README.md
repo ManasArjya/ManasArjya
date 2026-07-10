@@ -33,6 +33,12 @@ I'm a **Full Stack Software Engineer** building AI-powered applications, product
 
 <h4 align="center">👩🏻‍💻 Engineering intelligent software systems with reliability, scalability, and trust at their core.</h4>
 
+<img align="right" alt="Coding" width="350" src="https://github.com/CARLOX62/CARLOX62/blob/main/Firefly_Create%20a%20short%20animated%20loop%20GIF%20(3%E2%80%936%20seconds)%20of%20a%20hacker%20cartoon%20character%20sitting%20%20316441.jpg" />
+
+<!-- Profile Views button
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ManasArjya&label=Profile%20views&color=0e75b6&style=flat" alt="ManasArjya" /> </p>
+-->
+
 💻 Building: **AI-powered Products • Intelligent Software Systems • Production-ready applications**
 
 🧠 Learning: **AI & ML Systems • Cloud Architecture • System Design • Distributed Systems**
@@ -40,6 +46,8 @@ I'm a **Full Stack Software Engineer** building AI-powered applications, product
 🎯 Seeking: **Full-Time Software Engineering Opportunities**
 
 💬 Open to discuss: **Software Engineering • AI • Full-Stack Development • System Design • Collaboration**
+
+
 
 ---
 
